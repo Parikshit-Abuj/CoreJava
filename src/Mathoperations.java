@@ -1,4 +1,4 @@
-//parikshitabuj
+// ParikshitAbuj
 public class Mathoperations {
     static void main() {
         System.out.println(Math.PI);

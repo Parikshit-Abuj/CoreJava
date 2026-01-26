@@ -1,4 +1,4 @@
-//parikshitabuj
+// ParikshitAbuj
 import java.util.Random;
 public class Randomnum{
     static void main() {

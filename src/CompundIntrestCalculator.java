@@ -1,4 +1,4 @@
-//parikshitabuj
+//ParikshitAbuj
 import java.util.Scanner;
 public class CompundIntrestCalculator {
     static void main() {

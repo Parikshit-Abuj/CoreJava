@@ -1,4 +1,4 @@
-//ParikshitAbuj
+// ParikshitAbuj
 
 import java.util.Scanner;
 

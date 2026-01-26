@@ -1,4 +1,4 @@
-//parikshitabuj
+//ParikshitAbuj
 import java.util.Scanner;
 public class IfelseAge {
     public static void main(String[]args){

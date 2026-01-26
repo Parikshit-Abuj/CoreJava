@@ -1,4 +1,4 @@
-//parikshit abuj
+//Parikshit Abuj
 
 import java.util.Scanner;
 public class Shoppingcart {

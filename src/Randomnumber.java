@@ -1,3 +1,4 @@
+//ParikshitAbuj
 import java.util.Random;
 public class Randomnumber{
     static void main() {
