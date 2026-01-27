@@ -14,7 +14,24 @@ public class StringMethods {
         name = name.trim();
         name = name.replace("i", "k");
 
-        System.out.println(name);
+        if(name.isEmpty()) {
+            System.out.println("no name");
+        }
+        else{
+                System.out.println("hello " + name);
+            }
+        if(name.contains(" ")){
+            System.out.println("your name has spaces");}
+        else {
+            System.out.println("no spaces");
+        }
+        if(name.equalsIgnoreCase("Parikshit java")) {
+            System.out.println("name is equal"); }
+            else{
+                System.out.println("hello " +name);
+            }
+
+
 
 
 
