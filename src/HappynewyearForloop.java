@@ -1,4 +1,4 @@
-//parikshitabuj
+// parikshitabuj
 import java.util.Scanner;
 public class HappynewyearForloop {
     public static void main(String[] args) throws InterruptedException {
