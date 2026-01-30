@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CoreJAVA.iml" filepath="$PROJECT_DIR$/CoreJAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaOops/JavaOops.iml" filepath="$PROJECT_DIR$/JavaOops/JavaOops.iml" />
     </modules>
   </component>
 </project>
